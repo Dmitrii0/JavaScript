@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <script src="script2.js" defer></script>
+    <title>JavaScriptin testaus</title>
+  </head>
+  <body>
+    <h1>Tehtävä 2</h1>
+    <p id="nimi"></p>
+    <script>
+      "use strict";
+      const nimi = prompt("Kirjoita nimesi.");
+      document.querySelector("#nimi").innerHTML =
+        "Terve, " + nimi + "!";
+    </script>
+  </body>
+</html>
