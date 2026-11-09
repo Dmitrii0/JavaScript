@@ -1,75 +1,195 @@
----
+# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,visualstudiocode,webstorm
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,visualstudiocode,webstorm
 
-## Ohjelmisto 2 -ohjelmointitehtävät
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
 
-### JS-moduulit 1 ja 2
-
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli_1_2/)
-
-Tehdyt tehtävät:
-
-- Tehtävä 1: 1 p
-- Tehtävä 2: 2 p
-- Tehtävä 3: 3 p
-- Tehtävä 4: 3 p
-- Tehtävä 5: 3 p
-- Tehtävä 6: 3 p
-- Tehtävä 7: 2 p
-
-**Yhteensä 17p**
-
-Kirjoita tähän huomiot mahdollisista ongelmista tai lisäominaisuuksista.
-
----
-
-### JS-moduuli 3
-
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%203/)
-
-Tehdyt tehtävät:
-
-- Tehtävä 1: 2 p
-- Tehtävä 2: 3 p
-- Tehtävä 3: 2 p
-- Tehtävä 4: 2 p
-- Tehtävä 5: 2 p
-- Tehtävä 6: 2 p
-- Tehtävä 7: 2 p
-- Tehtävä 8: 2 p
+# Icon must end with two \r
+Icon
 
 
+# Thumbnails
+._*
 
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
-**Yhteensä 11p**
+### macOS Patch ###
+# iCloud generated files
+*.icloud
 
----
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
 
-### JS-moduuli 4
+# Local History for Visual Studio Code
+.history/
 
-[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%204/)
+# Built Visual Studio Code Extensions
+*.vsix
 
-Tehdyt tehtävät:
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
 
-- Tehtävä 1: 1 p
-- Tehtävä 2: 3 p
-- Tehtävä 5: 6 p
+### WebStorm ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
-**Yhteensä 11p**
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
 
----
+# AWS User-specific
+.idea/**/aws.xml
 
-### JS-moduuli 5
+# Generated files
+.idea/**/contentModel.xml
 
-[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%205/)
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
 
-Tehdyt tehtävät:
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
 
-- Tehtävä 1: 1 p
-- Tehtävä 2: 3 p
-- Tehtävä 5: 6 p
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+# .idea/artifacts
+# .idea/compiler.xml
+# .idea/jarRepositories.xml
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/modules
+# *.iml
+# *.ipr
 
-**Yhteensä 11p**
+# CMake
+cmake-build-*/
 
+# Mongo Explorer plugin
+.idea/**/mongoSettings.xml
 
----
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# SonarLint plugin
+.idea/sonarlint/
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Editor-based Rest Client
+.idea/httpRequests
+
+# Android studio 3.1+ serialized cache file
+.idea/caches/build_file_checksums.ser
+
+### WebStorm Patch ###
+# Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
+
+# *.iml
+# modules.xml
+# .idea/misc.xml
+# *.ipr
+
+# Sonarlint plugin
+# https://plugins.jetbrains.com/plugin/7973-sonarlint
+.idea/**/sonarlint/
+
+# SonarQube Plugin
+# https://plugins.jetbrains.com/plugin/7238-sonarqube-community-plugin
+.idea/**/sonarIssues.xml
+
+# Markdown Navigator plugin
+# https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced
+.idea/**/markdown-navigator.xml
+.idea/**/markdown-navigator-enh.xml
+.idea/**/markdown-navigator/
+
+# Cache file creation bug
+# See https://youtrack.jetbrains.com/issue/JBR-2257
+.idea/$CACHE_FILE$
+
+# CodeStream plugin
+# https://plugins.jetbrains.com/plugin/12206-codestream
+.idea/codestream.xml
+
+# Azure Toolkit for IntelliJ plugin
+# https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
+.idea/**/azureSettings.xml
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.toptal.com/developers/gitignore/api/macos,windows,visualstudiocode,webstorm
