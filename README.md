@@ -14,6 +14,7 @@ Tehdyt tehtävät:
 - Tehtävä 5: 3 p
 - Tehtävä 6: 3 p
 - Tehtävä 7: 2 p
+
 **Yhteensä 18p**
 
 
@@ -39,7 +40,7 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 4
 
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%204/)
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%204/)
 
 Tehdyt tehtävät:
 
