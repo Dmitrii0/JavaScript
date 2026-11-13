@@ -39,7 +39,7 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 4
 
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa]()
+[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%204/)
 
 Tehdyt tehtävät:
 
