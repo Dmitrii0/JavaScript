@@ -54,3 +54,16 @@ Tehdyt tehtävät:
 **Yhteensä 11p**
 
 -------------------------
+
+### Python & Flask server
+
+[Linkki Python Flask -palvelin kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%204/)
+
+Tehdyt tehtävät:
+
+- Tehtävä 2: 10p
+
+
+**Yhteensä 10p**
+
+-------------------------
