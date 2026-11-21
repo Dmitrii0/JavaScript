@@ -19,10 +19,10 @@ Tehdyt tehtävät:
 
 
 
-
+-------------------------
 
 ### JS-moduuli 3
--------------------------
+
 
 [Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%203/)
 
@@ -70,3 +70,18 @@ Tehdyt tehtävät:
 **Yhteensä 10p**
 
 -------------------------
+
+### JS-moduuli 5
+
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%204/)
+
+Tehdyt tehtävät:
+
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 2 p
+- Tehtävä 5: 5 p
+
+
+
+**Yhteensä 11p**
