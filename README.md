@@ -60,7 +60,7 @@ Tehdyt tehtävät:
 
 ### Python & Flask server
 
-[Linkki Python Flask -palvelin kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%204/)
+[Linkki Python Flask -palvelin kansiooni users.metropolia.fi-palvelussa](https://webdisk.metropolia.fi/htcomnet/Default.aspx)
 
 Tehdyt tehtävät:
 
@@ -73,7 +73,7 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 5
 
-[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%204/)
+[Linkki JS-moduulin 5 kansiooni users.metropolia.fi-palvelussa](https://webdisk.metropolia.fi/htcomnet/Default.aspx)
 
 Tehdyt tehtävät:
 
