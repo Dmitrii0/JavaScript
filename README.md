@@ -73,7 +73,7 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 5
 
-[Linkki JS-moduulin 5 kansiooni users.metropolia.fi-palvelussa](https://webdisk.metropolia.fi/htcomnet/Default.aspx)
+[Linkki JS-moduulin 5 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/moduuli%205/)
 
 Tehdyt tehtävät:
 
