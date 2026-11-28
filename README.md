@@ -60,7 +60,7 @@ Tehdyt tehtävät:
 
 ### Python & Flask server
 
-[Linkki Python Flask -palvelin kansiooni users.metropolia.fi-palvelussa](https://webdisk.metropolia.fi/htcomnet/Default.aspx)
+[Linkki Python Flask -palvelin kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmits/javascript/Flask%/)
 
 Tehdyt tehtävät:
 
